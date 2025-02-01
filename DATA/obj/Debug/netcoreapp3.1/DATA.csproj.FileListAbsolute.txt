@@ -1,0 +1,112 @@
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+C:\Users\09604760\source\repos\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+C:\Users\09604760\source\repos\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.json
+C:\Users\09604760\source\repos\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.dev.json
+C:\Users\09604760\source\repos\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\source\repos\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\source\repos\Projet\DATA\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\source\repos\Projet\DATA\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CopyComplete
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\source\repos\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.genruntimeconfig.cache
+C:\Users\09604760\Desktop\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+C:\Users\09604760\Desktop\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.json
+C:\Users\09604760\Desktop\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.dev.json
+C:\Users\09604760\Desktop\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\Projet\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\Projet\DATA\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\Projet\DATA\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CopyComplete
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\Projet\DATA\obj\Debug\netcoreapp3.1\DATA.genruntimeconfig.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.dev.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CopyComplete
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\DATA\obj\Debug\netcoreapp3.1\DATA.genruntimeconfig.cache
+C:\Users\09604760\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+C:\Users\09604760\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.json
+C:\Users\09604760\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.dev.json
+C:\Users\09604760\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CopyComplete
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.genruntimeconfig.cache
+D:\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+D:\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.json
+D:\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.dev.json
+D:\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+D:\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+D:\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.dll
+D:\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CopyComplete
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+D:\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.genruntimeconfig.cache
+D:\Data Souha\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+D:\Data Souha\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.json
+D:\Data Souha\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.dev.json
+D:\Data Souha\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+D:\Data Souha\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+D:\Data Souha\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Data Souha\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CopyComplete
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+D:\Data Souha\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.genruntimeconfig.cache
+C:\Users\User\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.deps.json
+C:\Users\User\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.json
+C:\Users\User\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.runtimeconfig.dev.json
+C:\Users\User\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\User\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\User\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\gestion de centre\DATA\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.AssemblyInfo.cs
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.csproj.CopyComplete
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.dll
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\User\Desktop\gestion de centre\DATA\obj\Debug\netcoreapp3.1\DATA.genruntimeconfig.cache

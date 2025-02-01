@@ -1,0 +1,657 @@
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\api.exe
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\api.deps.json
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\09604760\source\repos\Benjeddi\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\source\repos\Benjeddi\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\api.exe
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\api.deps.json
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\Projet\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\infra.dll
+C:\Users\09604760\Desktop\Projet\api\bin\Debug\netcoreapp3.1\infra.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\api.exe
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\api.deps.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\infra.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\infra.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.exe
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.deps.json
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.pdb
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.dll
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.pdb
+C:\Users\09604760\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+C:\Users\09604760\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\api.exe
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\api.deps.json
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\api.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\api.pdb
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.dll
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.pdb
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.pdb
+D:\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.dll
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.pdb
+D:\gestion de centre\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.dll
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.pdb
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\api.exe
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\api.deps.json
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\api.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\api.pdb
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.dll
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.pdb
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.pdb
+D:\Data Souha\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+D:\Data Souha\gestion de centre\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.exe
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.deps.json
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.json
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.runtimeconfig.dev.json
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\api.pdb
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.dll
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\DATA.pdb
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\infra.pdb
+C:\Users\User\Desktop\gestion de centre\api\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.AssemblyInfo.cs
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\staticwebassets\api.StaticWebAssets.xml
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\scopedcss\bundle\api.styles.css
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.csproj.CopyComplete
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.dll
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.pdb
+C:\Users\User\Desktop\gestion de centre\api\obj\Debug\netcoreapp3.1\api.genruntimeconfig.cache

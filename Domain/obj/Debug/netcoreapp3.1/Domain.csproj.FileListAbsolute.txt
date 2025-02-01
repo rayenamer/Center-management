@@ -1,0 +1,70 @@
+C:\Users\09604760\source\repos\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\09604760\source\repos\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\source\repos\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\09604760\source\repos\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\09604760\source\repos\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\09604760\source\repos\Projet\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\09604760\source\repos\Projet\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\source\repos\Projet\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\source\repos\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\source\repos\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\Projet\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\09604760\Desktop\Projet\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\Projet\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\09604760\Desktop\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\Projet\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de bibliotheque\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\09604760\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09604760\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\09604760\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\09604760\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\09604760\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\09604760\Desktop\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\09604760\Desktop\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\09604760\Desktop\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Data Souha\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Data Souha\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Data Souha\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Data Souha\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Data Souha\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Souha\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Data Souha\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Data Souha\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Data Souha\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Data Souha\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Desktop\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\User\Desktop\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\gestion de centre\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Desktop\gestion de centre\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
