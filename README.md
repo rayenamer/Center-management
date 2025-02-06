@@ -10,10 +10,7 @@ The project is organized into multiple layers, each with a specific responsibili
 
 ### **1. Data Layer (`DATA`)**
 - **Context**: Contains the `CentreDbContext` for database interactions.
-- **Migrations**: Includes database migration files:
-  - `20240806022841_2.Designer.cs`
-  - `20240806022841_2.cs`
-  - `CentreDbContextModelSnapshot.cs`
+- **Migrations**: Includes database migration files
 - **Repository**: Contains the `GenericRepository.cs` for generic CRUD operations.
 - **Project File**: `DATA.csproj`
 
